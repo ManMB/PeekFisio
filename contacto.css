@@ -1,0 +1,77 @@
+
+h1{text-transform: uppercase;
+	color: #444;
+	font-family: rale;
+	letter-spacing: 1px;
+}
+.web{
+	width: 90%;
+	margin: auto;
+	clear: both;
+}
+.bienvenidos{
+	margin-top: 50px;
+	text-align: center;
+}
+.dos-columnas{
+	margin-top: 50px;
+}
+
+.datos{
+	float: left;
+	width: 25%;
+	margin: auto;
+	color:#999;
+}
+.formulario{
+	float: left;
+	width: 50%;
+	margin: auto;
+	color:#999;
+}
+.caja-1{
+	width: 250px;
+	height: 40px;
+	margin: 20px 20px;
+	padding: 10px;
+	font-size: 14px;
+}
+.caja-2{
+	width: 545px;
+	height: 100px;
+	margin: 20px 20px;
+	padding: 10px;
+	font-size: 14px;
+}
+.correr{
+	margin: 20px 20px;
+	padding: 10px;
+}
+.formu-ti{
+	margin: 0px 20px;
+	color: #4e5769;
+}
+.datos-contacto{
+	list-style: none;
+	text-align: center;
+}
+.datos-contacto li{
+	color: #444;
+	padding-bottom: 5px;
+}
+.datos-contacto li i{
+	color: #7FC332;
+	font-size: 60px;
+}
+
+.limpia{
+	clear: both;
+}
+footer{
+	clear: both;
+	margin-top: 50px;
+	background: #000;
+	color: #7FC332;
+	text-align: center;
+	padding: 30px;
+}

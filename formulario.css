@@ -1,0 +1,89 @@
+.dos-columnas{
+	margin-top: 50px;
+
+}
+
+.datos{
+	float: left;
+	width: 25%;
+	margin: auto;
+	color:#999;
+
+}
+.formulario{
+	float: left;
+	width: 50%;
+	margin: auto;
+	color:#999;
+	padding:5%;
+
+}
+/*caja recuedros*/
+.caja-1{
+	width: 255px;
+	height: 50px;
+	margin: 10px 30px;
+	padding: 10px;
+	font-size: 14px;
+	border-radius: 5px; <!-- borde de los recuadros -->
+	background-color: #d9e3ec; 
+	/* color de fondo */ 
+}
+/* caja dos cuadro comentario*/
+.caja-2
+{
+	width: 390px;
+	height: 60px;
+	margin: 10px 30px;
+	padding: 10px;
+	font-size: 14px;
+	border-radius: 5px;
+	background-color: #ffffff; /*color fondo comentario*/
+}
+/* boton enviar */
+.contratar-a{
+	background: #121213;
+	text-decoration: none;
+	color: #5cea00; /*letras boton*/ 
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 10px 70px;
+	letter-spacing: 1px;
+	width: 90%;
+}
+.correr
+{
+	margin: 10px 30px;
+	padding: 12px;
+	width: 390px;
+}
+.formu-ti{
+	margin: 0px 20px;
+	color: #060606; /* Color de letras formulario*/
+	font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
+.datos-contacto{
+	list-style: none;
+	text-align: center;
+}
+.datos-contacto li{
+	color: #010101; /*Color de informacion de letras redes sociales*/
+	padding-bottom: 5px;
+}
+.datos-contacto li i{
+	padding: 5%;
+ color:#1e58d2; /*color inconos redes informacion*/
+	font-size: 100px;
+}
+.limpia{
+	clear: both;
+}
+footer
+{
+	clear: both;
+	margin-top: 20px;
+	background: #000;
+	color: #85c34a;
+	text-align: center;
+	padding: 10px;
+}
